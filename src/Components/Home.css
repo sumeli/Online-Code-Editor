@@ -1,0 +1,4 @@
+body {
+    scroll-behavior: unset;
+    overflow: hidden;
+}
